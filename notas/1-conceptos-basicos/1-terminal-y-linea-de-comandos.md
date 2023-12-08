@@ -3,16 +3,9 @@ title: Terminal y Línea de Comandos
 author: Alan Yahir Juárez Rubio
 type: Nota
 
-aliases:
- - Terminal
- - Línea de Comandos
+aliases: Terminal, Línea de Comandos
 
-tags:
- - Terminal
- - Comandos
- - Shell
- - CLI
- - Consola
+tags: Terminal, Comandos, Shell, CLI, Consola
 
 creation date: 04-12-2023
 last modification date: 08-12-2023

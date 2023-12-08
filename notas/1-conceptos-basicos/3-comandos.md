@@ -3,15 +3,9 @@ title: Comandos
 author: Alan Yahir Juárez Rubio
 type: Nota
 
-aliases:
- - Comando
- - Alias
+aliases: Comando, Alias
 
-tags:
- - Comando
- - Alias
- - Flag
- - Argumento
+tags: Comando, Alias, Flag, Argumento
 
 creation date: 07-12-2023
 last modification date: 08-12-2023

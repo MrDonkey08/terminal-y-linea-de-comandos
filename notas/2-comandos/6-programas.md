@@ -2,8 +2,10 @@
 title: Programas
 author: Alan Yahir Juárez Rubio
 type: Nota
+
 aliases: 
 tags: 
+
 creation date: 11-12-2023
 last modification date: 14-12-2023
 ---

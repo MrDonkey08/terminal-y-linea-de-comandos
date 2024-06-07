@@ -13,7 +13,7 @@ last modification date: 14-12-2023
 ## Utilidades de red
 
 |   Comando    | Nombre | Descripción | Flags | Argumento | Ejemplo |
-|:------------:|:------:|:----------- |:-----:|:---------:| ------- |
+| :----------: | :----: | :---------- | :---: | :-------: | ------- |
 | `if config`  |        |             |       |           |         |
 |    `ping`    |        |             |       |           |         |
 |    `curl`    |        |             |       |           |         |

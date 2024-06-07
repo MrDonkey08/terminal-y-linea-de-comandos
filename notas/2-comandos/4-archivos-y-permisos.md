@@ -3,8 +3,8 @@ title: Archivos y Permisos
 author: Alan Yahir Juárez Rubio
 type: Nota
 
-aliases: 
-tags: 
+aliases:
+tags:
 
 creation date: 11-12-2023
 last modification date: 14-12-2023
@@ -23,7 +23,7 @@ last modification date: 14-12-2023
 ## Permisos de Usuarios
 
 | Comando  | Nombre | Descripción                                                     |               Flags               | Argumento | Ejemplo |
-|:--------:|:------:|:--------------------------------------------------------------- |:---------------------------------:|:---------:| ------- |
+| :------: | :----: | :-------------------------------------------------------------- | :-------------------------------: | :-------: | ------- |
 | `chmod`  |        | Cambia los permisos del archivo                                 |                                   |           |         |
 |   `id`   |        |                                                                 | `a`, `G`, `g`, `n`, `r`, `u`, `z` |           |         |
 | `whoami` |        | Muestra el nombre de usuario                                    |                                   |           |         |
